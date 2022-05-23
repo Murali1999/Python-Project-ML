@@ -1,0 +1,5 @@
+Project Name: Supermarket billing and recommendation system
+
+This application is for bill generation and recommending products that can be bought together at an attractive price, which can also be seen in online sites like Amazon, Flipkart, Ebay...etc.
+This recommendation is done through the bills and the products purchased by the customers and then the trends are analysed to produce recommendations for the customers.
+
