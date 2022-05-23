@@ -1,0 +1,13 @@
+Project Name: Application for email transfer:-
+
+This application is for sending email remotely from any system without logging in to any site. There are four components to this application:
+1. Signup
+2. Login
+3. Logout
+4. Send mail
+
+First you sign-up to login remotely from any system.
+Then you login to the remote application.
+Then you enter your email credentials and the content to send and then send the mail.
+Then you logout.
+This application requires internet connection but is still more resourceful in times like when the sites are down for maintanance, in which case you would have to wait for sending your email. It can be use in case of emergencies.
